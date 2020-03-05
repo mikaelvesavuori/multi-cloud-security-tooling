@@ -1,7 +1,3 @@
-#
-# THIS WILL CREATE A DEBIAN MACHINE ON COMPUTE ENGINE
-#
-
 ##########################
 # Update your machine!
 ##########################

@@ -1,7 +1,3 @@
-#
-# THIS WILL CREATE AN RHEL LINUX MACHINE ON EC2
-#
-
 ##########################
 # Update your machine!
 ##########################
