@@ -143,7 +143,7 @@ Suggested CIDR: `192.168.100.64/27`
 
 #### Security Groups
 
-Create a Security Group.
+Create a Security Group. Get your IP from [http://whatismyip.host](http://whatismyip.host) or a similar service.
 
 Suggested name: `PentestingMachines-SG`
 
