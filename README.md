@@ -151,7 +151,7 @@ Inbound Rules:
 
 - HTTP, Protocol: TCP, Port Range: 80, Source: `0.0.0.0/0`
 - HTTP, Protocol: TCP, Port Range: 80, Source: `::/0`
-- SSH, Protocol: TCP, Port Range: 22, Source: `194.17.5.222/32`
+- SSH, Protocol: TCP, Port Range: 22, Source: `XXX.XXX.XXX.XXX/32`
 - HTTPS, Protocol: TCP, Port Range: 443, Source: `0.0.0.0/0`
 - HTTPS, Protocol: TCP, Port Range: 443, Source: `::/0`
 
